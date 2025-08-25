@@ -1,4 +1,4 @@
-# vApp Submission: [Soundness P2E Games]
+# vApp Submission: [Gambling]
 
 ## Verification
 ```yaml
@@ -9,59 +9,51 @@ timestamp: "2025-08-25"
 
 ## Developer
 - **Name**: Jay Andrew Anos
-- **GitHub**: @your-username
-- **Discord**: username#1234
+- **GitHub**: @JaDaOfficial17
+- **Discord**: crypto_nomad17
 - **Experience**: Brief background
 
-## Project
+# vApp Proposal: Cross-Chain Yield Optimizer
 
-### Name & Category
-- **Project**: Your vApp Name
-- **Category**: identity/defi/social/gaming/infrastructure/other
+## Author
+- GitHub: [JaDaOfficial17](https://github.com/JaDaOfficial17)
+- Twitter/X: [@ZoneAlerts](https://x.com/ZoneAlerts)  
+- Email: jayandrewdapitilloanos@email.com  
 
-### Description
-What problem does your vApp solve? What does it do?
+---
 
-### SL Integration  
-How will you use Soundness Layer? What specific SL features?
+# vApp Proposal: 50/50 Color Bet Game
 
-## Technical
+**Category:** gaming  
+**Submitted by:** JaDaOfficial17  
 
-### Architecture
-High-level system design and approach
+## Game Concept
+**50/50 Color Bet** is a decentralized betting game where players bet on a simple two-color system (e.g., Red or Blue), giving a 50/50 chance per round. The game allows two roles:  
 
-### Stack
-- **Frontend**: React/Vue/etc
-- **Backend**: Rust/Node.js/Python/etc  
-- **Blockchain**: SL + others
-- **Storage**: Database/WALRUS/IPFS/etc
+1. **Lobby Creator / Investor:** Players can create a game lobby, committing capital to fund the betting pool. They act as the "house" for the round.  
+2. **Bettors / Players:** Other participants join the lobby and place bets on their chosen color.  
 
-### Features
-1. Core feature 1
-2. Core feature 2  
-3. Core feature 3
+Soundness ensures secure, transparent, and fair handling of bets, while earning a minimal 0.001% fee on all transactions.  
 
-## Timeline
+## Gameplay Mechanics
+- **Lobby Creation:** A player commits $SND tokens to create a betting lobby with a set duration and minimum bet.  
+- **Bet Placement:** Other players place bets on Red or Blue.  
+- **Resolution:** Once the betting period ends, the winning color is determined using provably fair randomness on-chain.  
+- **Payouts:**  
+  - Lobby creator earns returns based on the bets placed in their lobby.  
+  - Winning bettors receive proportional payouts from the pool.  
+- **Fees:** Soundness collects 0.001% on each transaction in the game.  
 
-### PoC (2-4 weeks)
-- [ ] Basic functionality
-- [ ] SL integration
-- [ ] Simple UI
+## Soundness Integration
+- **Smart Contract Security:** All bets, payouts, and lobby management are handled via Soundness smart contracts to prevent manipulation.  
+- **Provably Fair RNG:** Outcomes are verifiably random and fully on-chain.  
+- **Revenue Model:** The 0.001% transaction fee provides continuous revenue for Soundness without impacting gameplay.  
 
-### MVP (4-8 weeks)  
-- [ ] Full features
-- [ ] Production ready
-- [ ] User testing
+## Roadmap
+1. **Phase 1:** Smart contract development for secure lobbies and bets.  
+2. **Phase 2:** Alpha testing with limited lobbies to ensure fairness and user experience.  
+3. **Phase 3:** Public launch with integrated fees and real $SND token rewards.  
+4. **Phase 4:** Community engagement, tournaments, and leaderboard features for players and lobby creators.  
 
-## Innovation
-What makes this unique? Why will people use it?
-
-## Contact
-Preferred contact method and where you'll share updates.
-
-
-**Checklist before submitting:**
-- [ ] All fields completed
-- [ ] GitHub username matches PR author  
-- [ ] SL integration explained
-- [ ] Timeline is realistic
+## Why 50/50 Color Bet?
+This game combines simple mechanics with high transparency and fairness. By allowing players to fund lobbies and bet with real stakes, it creates engagement while generating sustainable revenue for Soundness. Provably fair outcomes and micro-fees ensure a secure, rewarding, and transparent betting ecosystem.
