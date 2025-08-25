@@ -18,7 +18,7 @@ timestamp: "2025-08-25"
 ## Author
 - GitHub: [JaDaOfficial17](https://github.com/JaDaOfficial17)
 - Twitter/X: [@ZoneAlerts](https://x.com/ZoneAlerts)  
-- Email: jayandrewdapitilloanos@email.com  
+- Email: jayandrewdapitilloanos@gmail.com  
 
 ---
 
