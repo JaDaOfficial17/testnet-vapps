@@ -1,4 +1,4 @@
-# vApp Submission: [Gambling]
+# vApp Submission: [Color Game]
 
 ## Verification
 ```yaml
